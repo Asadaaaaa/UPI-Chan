@@ -1,0 +1,12 @@
+token: "" # Bot Token
+prefix: "rpl!" # Prefix Chat for Command
+formTimeout: 30 #in second
+logs: "" # Chanel id for logs your bot data
+info: "\u200b    RPL 2021 Bot is AIs that can perform a number of useful automated tasks. This bot was built only for the RPL 2021 server and developed by students using the JavaScript language with the Discord.js framework. This bot has some commands to make this server more organized, fun, and interactive.\n\n    🔹 All commands start with prefix `rpl!`.\n    🔹 Use `rpl!commands` to see the list of General Commands.\n    🔹 `rpl.m!commands` to see the list of Music Commmands."
+developer: "282363030501720076"
+permissions:
+    developers:
+      - "282363030501720076"
+
+    collaborators:
+      - ""

@@ -1,0 +1,22 @@
+{
+  "name": "rplbot",
+  "version": "2.0.0",
+  "description": "Discord Bot only for Server RPL 2021",
+  "main": "./src/Main.js",
+  "scripts": {
+    "start": "npm i && node .",
+    "release": "npm i && npx pm2 start ./src/Main.js --name \"UPI-Chan\""
+  },
+  "author": "Asada",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.6.0",
+    "fs": "^0.0.1-security",
+    "instagram-web-api": "^2.2.2",
+    "js-yaml": "^4.1.0",
+    "mongodb": "^4.3.1",
+    "pm2": "^5.2.0",
+    "tough-cookie-filestore2": "^1.0.0",
+    "twit": "^2.2.11"
+  }
+}
