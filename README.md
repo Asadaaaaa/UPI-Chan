@@ -3,7 +3,7 @@
 </div>
 <div align="center">
 	<p>
-		UPIchan is a discord bot application for college class private servers.<br>
+		UPI'Chan is a discord bot application for college class private servers.<br>
 		(This app is built for personal use, learning and experience)
 	</p>
 	<a href="https://t.me/ItsMeAsada">
