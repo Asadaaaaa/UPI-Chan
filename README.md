@@ -31,7 +31,7 @@
     <br>
     ❎ Games
 
-<br>
+<br><br>
 
 <div align="center">
 	<h2>Information</h2>
